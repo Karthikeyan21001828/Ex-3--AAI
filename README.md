@@ -1,6 +1,6 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
-<H3>EX. NO.3</H3>
+<H3>NAME: Karthikeyan K</H3>
+<H3>REGISTER NO: 212221230046</H3>
+<H3>EX NO: 3</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
